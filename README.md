@@ -7,7 +7,7 @@ Made by: Lorenzik
   git clone https://github.com/Lorenzik/TikTok-Mass-Report-Bot
   cd TMRB
   npm i
-  node .
+  node .https://www.tiktok.com/@asadjb46?_t=8eI7QvXv3v0&_r=1
 ```
 
 ## How to get report URL
